@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Glimmer
+## Notes: Always shows the loot sparkle on quest items, and keeps it on after graphics changes.
+## Author: Frank
+## Version: 1.0.0
+## SavedVariables: GlimmerDB
+## IconTexture: Interface\Icons\INV_Misc_Gem_Pearl_04
+
+Glimmer.lua
