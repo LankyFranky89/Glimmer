@@ -2,7 +2,7 @@
 ## Title: Glimmer
 ## Notes: Always shows the loot sparkle on quest items, and keeps it on after graphics changes.
 ## Author: Frank
-## Version: 1.0.0
+## Version: 1.1.0
 ## SavedVariables: GlimmerDB
 ## IconTexture: Interface\Icons\INV_Misc_Gem_Pearl_04
 
